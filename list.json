@@ -1,6 +1,8 @@
 {
-  {
-    "id": 0
-    "appname": "myapp"
-  }
+  "list": [
+    {
+      "id": 0,
+      "appname": "myapp"
+    }
+  ]
 }
