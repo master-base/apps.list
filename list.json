@@ -1,5 +1,7 @@
 {
   "list": [
-    { "appname": "myapp" }
+    { "appname": "data-studio", "label": "Data Studio" },
+    { "appname": "ml-studio", "label": "Machine Learning Studio" },
+    { "appname": "dl-studio", "label": "Deep Learning Studio" }
   ]
 }
