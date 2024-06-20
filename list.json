@@ -1,6 +1,6 @@
 {
   "list": [
-    { "appname": "prepro-studio", "label": "Preprocessing Studio" },
+    { "appname": "prepro-studio", "label": "Preprocessing Studio", "pageurl": "https://databruin.com/prepro/" },
     { "appname": "ml-studio", "label": "Machine Learning Studio" },
     { "appname": "dl-studio", "label": "Deep Learning Studio" }
   ]
